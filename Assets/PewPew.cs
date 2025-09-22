@@ -18,6 +18,8 @@ public class PewPew : MonoBehaviour
         
     }
 
+    // THIRTY TO FIFTY FERAL B O A R S IN THREE TO FIVE MINUTES
+
     private void OnTriggerEnter2D(Collider2D Target)
     {
         if (Target.tag == "bullet")
