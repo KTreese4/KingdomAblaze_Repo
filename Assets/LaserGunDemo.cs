@@ -37,6 +37,7 @@ public class LaserGunDemo : MonoBehaviour
         }
     }
 
+    // This is certainly a comment!
     private IEnumerator despawn()
     {
         yield return new WaitForSeconds(5.0f);
