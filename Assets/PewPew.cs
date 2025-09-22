@@ -24,6 +24,5 @@ public class PewPew : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        // WOW this is certainly a comment!
     }
 }
